@@ -8,7 +8,7 @@
 
 ## 🌟 Technologies & Tools
 👩🏻‍💻 **Programming Languages:**  
-![Java](https://img.shields.io/badge/Code-Java-blue)   ![Python](https://img.shields.io/badge/Code-Python-blue)   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  ![C++](https://img.shields.io/badge/Code-C++-brightgreen)   ![HTML](https://img.shields.io/badge/Code-HTML-orange)  ![CSS](https://img.shields.io/badge/Code-CSS-blue)   ![D3.js](https://img.shields.io/badge/Code-D3.js-red)  
+![Java](https://img.shields.io/badge/Code-Java-blue)   ![Python](https://img.shields.io/badge/Code-Python-blue)   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)   ![HTML](https://img.shields.io/badge/Code-HTML-orange)  ![CSS](https://img.shields.io/badge/Code-CSS-blue)   ![D3.js](https://img.shields.io/badge/Code-D3.js-red)  
 
  📂 **Databases:**  
 ![SQL](https://img.shields.io/badge/Database-SQL-lightblue)   ![XML](https://img.shields.io/badge/Database-XML-brightgreen)   ![JSON](https://img.shields.io/badge/Database-JSON-blue)   ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)  
