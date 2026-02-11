@@ -43,25 +43,13 @@
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaB123&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JigishaB123&color=blue" alt="Profile Views" />
-</div> -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JigishaB123&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigishaB123&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JigishaB123&color=blue" />
-</p>
+</div>
 
 
 ⭐ *Open to Software Engineer / New Grad / Full Stack opportunities*
