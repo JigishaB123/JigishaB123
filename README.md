@@ -7,10 +7,10 @@
 ## 🎓 Education
 
 **Master of Science in Software Engineering Systems**  
-*Northeastern University, Boston, USA*
+*Northeastern University   - Boston, USA*
 
 **Bachelor of Engineering in Computer Engineering**  
-*Savitribai Phule Pune University, India*
+*Savitribai Phule Pune University   - India*
 
 ## 🌟 Technologies & Tools
 👩🏻‍💻 **Programming Languages:**  
