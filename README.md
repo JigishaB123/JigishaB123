@@ -4,14 +4,6 @@
 
 **I’m a software engineer with 3 years of professional experience building scalable, high-performance applications in the financial and cloud domains. I’ve worked extensively with Java, Spring Boot, microservices, REST APIs, SQL, and modern frontend frameworks, contributing to large production codebases where reliability and performance truly matter. From optimizing payment workflows to improving system throughput and reducing processing times, I enjoy solving complex problems that have real-world impact.**
 
-## 🎓 Education
-
-**Master of Science in Software Engineering Systems**  
-*Northeastern University   - Boston, USA*
-
-**Bachelor of Engineering in Computer Engineering**  
-*Savitribai Phule Pune University   - India*
-
 ## 🌟 Technologies & Tools
 👩🏻‍💻 **Programming Languages:**  
 ![Java](https://img.shields.io/badge/Code-Java-blue)   ![Python](https://img.shields.io/badge/Code-Python-blue)   ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)   ![HTML](https://img.shields.io/badge/Code-HTML-orange)  ![CSS](https://img.shields.io/badge/Code-CSS-blue)   ![D3.js](https://img.shields.io/badge/Code-D3.js-red)  
